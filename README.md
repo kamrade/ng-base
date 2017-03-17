@@ -77,3 +77,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 # TypeScript
 
 > To take full advantage of TypeScript with autocomplete you would have to use an editor with the correct TypeScript plugins.
+
+#Web animations
+https://github.com/web-animations/web-animations-js
