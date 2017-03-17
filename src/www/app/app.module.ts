@@ -6,6 +6,7 @@ import { FormsModule } from '@angular/forms';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 import { AppComponent } from './app.component';
 
@@ -24,7 +25,8 @@ import { rootRouting } from './app.routing';
         AppComponent,
         HomeComponent,
         AboutComponent,
-        ContactComponent
+        ContactComponent,
+        NotFoundComponent
     ],
 
     bootstrap: [AppComponent]
